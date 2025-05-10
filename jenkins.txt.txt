@@ -22,3 +22,11 @@ steo(developer3)
 
 }
 }
+pipeline{
+
+steps{
+
+steo(developer4)
+
+}
+}
